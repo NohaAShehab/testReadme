@@ -1,6 +1,6 @@
 <!-- ===== Profile Header ===== -->
-<h1 align="center">👋 I'm [Your Name]</h1>
-<p align="center"><b>Salesforce Developer | 5x Certified | OmniStudio Specialist</b></p>
+<h1 align="center">👋 I'm [Mohamed Elgindy]</h1>
+<p align="center"><b>Salesforce Developer | CloudzLab | 5x Certified </b></p>
 
 <p align="center">
   <span style="color:#00ff7f;font-weight:bold">Follow to get New Updates</span>
